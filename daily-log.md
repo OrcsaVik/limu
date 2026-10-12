@@ -1,2 +1,3 @@
+- 2026-10-12: 审计错题本小程序前端：逻辑层 680 行、pages 1327 行、components 250 行零 require、mock 720 行，据此判定分层单向、无需另建模块图；复核门禁与单测为真（98 令牌/77 引用、10 suites 84 tests 全绿）；溯源出 check-tokens.js 系构建中期引入；仓库 0 提交且 git 根误落在 C:/Users/make 为唯一阻塞项 (auto)
 - 2026-10-12: 排查 daily-log 链路为何始终无产出：确认 Windows 计划任务 QoderDailyLogPush 状态 Disabled、下次运行 N/A 即从未执行；Qoder 侧 21:00 生成任务今天 12:39 触发后 41ms 即 session-failed（consecutiveFailures=1）；收件箱里 10-11 那条从未落库，daily-log.md 首行仍只有 你好世界。已将该条备份为 daily-log.inbox.txt.bak-2026-10-11（370B）并清空收件箱，解除今晚第二条的日期阻塞 (auto)
 - 2026-10-11: 你好世界

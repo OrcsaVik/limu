@@ -1,1 +1,2 @@
+- 2026-10-12: 排查 daily-log 链路为何始终无产出：确认 Windows 计划任务 QoderDailyLogPush 状态 Disabled、下次运行 N/A 即从未执行；Qoder 侧 21:00 生成任务今天 12:39 触发后 41ms 即 session-failed（consecutiveFailures=1）；收件箱里 10-11 那条从未落库，daily-log.md 首行仍只有 你好世界。已将该条备份为 daily-log.inbox.txt.bak-2026-10-11（370B）并清空收件箱，解除今晚第二条的日期阻塞 (auto)
 - 2026-10-11: 你好世界

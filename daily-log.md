@@ -1,3 +1,4 @@
+- 2026-10-17: first to come for this world
 - 2026-10-17: nikoe3
 - 2026-10-17: nikoes
 - 2026-10-17: wordls

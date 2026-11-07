@@ -1,3 +1,4 @@
+- 2026-11-07: hello tempa ncie for programer
 - 2026-11-07: hello tempature
 - 2026-11-07: hello world
 - 2026-11-07: ncie-nice world

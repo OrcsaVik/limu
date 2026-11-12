@@ -1,3 +1,4 @@
+- 2026-11-12: ncie world
 - 2026-11-12: ncie good
 - 2026-11-12: ncie foru 
 - 2026-11-11: nice

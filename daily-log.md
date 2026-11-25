@@ -1,3 +1,4 @@
+- 2026-11-25: nice-world
 - 2026-11-24: nice for nice hello world next steop for chpice the 2rd plan to wrold exec the last stop world
 - 2026-11-24: nice for nice hello world next steop for chpice the 2rd plan to wrold exec the last stop 
 - 2026-11-24: nice for nice hello world next steop for chpice the 2rd plan to wrold
